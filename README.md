@@ -1,4 +1,4 @@
-- goto michaelmarkert.github.io/ar and hold the marker images from the subfolder in front of the camera
+- goto (michaelmarkert.github.io/ar)[https://michaelmarkert.github.io/ar] and hold the marker images from the subfolder in front of the camera
 - marker images here: https://github.com/nicolocarpignoli/artoolkit-barcode-markers-collection/tree/master
 - tutorial: https://makerspace-giessen.de/2021/05/26/tutorial-eine-eigene-augmented-reality-ar-web-anwendung-erstellen/
 - ar.js documentation: https://ar-js-org.github.io/AR.js-Docs/
